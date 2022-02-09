@@ -25,3 +25,5 @@ alert("a*b=" + mult)
 alert("a/b=" + div)
 alert("a^b=" + exp)
 alert("b%a=" + resid)
+
+console.log("New feature")
